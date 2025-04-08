@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eddbdea
 - 👀 I'm interested into bringing ideas into real products 
-- 🌱 I’m currently building [Pastebin](https://github.com/eddbdea/Pastebin) project using Node.js, Express.js, PostgreSQL for database, Embbeded JavaScript Template and Bootstrap for styling.
+- 🌱 I’m currently building [Pastebin](https://github.com/eddbdea/Pastebin) project using Node.js, Express.js, PostgreSQL for database, Embedded JavaScript Template and Bootstrap for styling.
 
 
 <!---
