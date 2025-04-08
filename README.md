@@ -1,6 +1,5 @@
 - Hi, I’m [@eddbdea](https://github.com/eddbdea)  
-- I'm interested in bringing ideas to life by turning them into real, usable products  
-- Currently building a [Pastebin](https://github.com/eddbdea/Pastebin) project using:
+- Currently building [Pastebin](https://github.com/eddbdea/Pastebin) project to familiarise myself with the backend, using:
   - Node.js and Express.js for the backend  
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
