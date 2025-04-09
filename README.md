@@ -1,10 +1,10 @@
-- Hi, I’m [Eduard](https://github.com/eddbdea)  
-- Currently building [Presidentail elections](https://github.com/eddbdea/Presidential-elections) project using:
+Hi, I’m [Eduard](https://github.com/eddbdea)  
+Currently building [Presidentail elections](https://github.com/eddbdea/Presidential-elections) project using:
   - Node.js and Express.js for the backend  
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
 
-  **STATUS:** implementing register/login;
+**STATUS:** implementing register/login;
 
 
 <!---
