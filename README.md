@@ -1,5 +1,5 @@
 - Hi, I’m [@eddbdea](https://github.com/eddbdea)  
-- Currently building [Pastebin](https://github.com/eddbdea/Pastebin) project to familiarise myself with the backend, using:
+- Currently building [Pastebin](https://github.com/eddbdea/Presidential-elections) project to familiarise myself with the backend, using:
   - Node.js and Express.js for the backend  
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
