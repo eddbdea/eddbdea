@@ -4,7 +4,7 @@
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
  
-    **STATUS:** <p style="background-color: #CCFFCC; padding: 10px;">This is a README with a colored background.</p>
+    **STATUS:** <p style="color: #CCFFCC; padding: 10px;">This is a README with a colored background.</p>
 
 
 <!---
