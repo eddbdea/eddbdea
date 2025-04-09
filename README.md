@@ -4,7 +4,7 @@
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
  
-    **STATUS:** <h1 style="color: #CCFFCC; padding: 10px;">This is a README with a colored background.</h1>
+    **STATUS:** implementing register/login;
 
 
 <!---
