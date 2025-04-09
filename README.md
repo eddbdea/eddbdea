@@ -4,7 +4,7 @@
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
  
-    **STATUS:** The background color is `#ffffff` for light mode and `#000000` for dark mode.
+    **STATUS:** <p style="background-color: #d3d3d3; padding: 10px;">This is a README with a colored background.</p>
 
 
 <!---
