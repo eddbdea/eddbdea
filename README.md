@@ -4,7 +4,7 @@ Currently building [Presidentail elections](https://github.com/eddbdea/President
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
 
-**STATUS:** implementing register/login feature;
+**STATUS:** implementing voting/being a candidate feature;
 
 
 <!---
