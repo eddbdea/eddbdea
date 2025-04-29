@@ -4,7 +4,7 @@ Currently building [Presidentail elections](https://github.com/eddbdea/President
   - PostgreSQL for the database  
   - EJS and Bootstrap for the frontend
 
-**STATUS:** implementing more voting rounds selected by someone with the admin role;
+**STATUS:** implementing more voting rounds, each period being selected by someone with the admin role;
 
 
 <!---
