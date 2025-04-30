@@ -1,4 +1,4 @@
-Hi, I’m [Eduard](https://github.com/eddbdea)  
+Hi, I’m [Eduard](https://github.com/eddbdea)! 
 Currently building [Presidentail elections](https://github.com/eddbdea/Presidential-elections) project using:
   - Node.js and Express.js for the backend  
   - PostgreSQL for the database  
