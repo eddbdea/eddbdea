@@ -1,10 +1,6 @@
-Hi, I’m [Eduard](https://github.com/eddbdea)! 
-Currently building [Presidentail elections](https://github.com/eddbdea/Presidential-elections) project using:
-  - Node.js and Express.js for the backend  
-  - PostgreSQL for the database  
-  - EJS and Bootstrap for the frontend
+Hi, I’m [Edi](https://github.com/eddbdea)! 
 
-**STATUS:** implementing more voting rounds, each period being selected by someone with the admin role;
+Building FormpipeAPI - an API that automates appointments by auto saving form data and injecting it in a Google Sheet that only the customer has access to. Beside that I am combining it with a boilerplate skeleton for a lead magnet website designed to capture leads, from copy to design.
 
 
 <!---
