@@ -1,6 +1,4 @@
-***"Dev by day founder by night"***
-
-Building a Development Business in my 20`s.
+***"I guess I love building stuff"***
 
 <!---
 eddbdea/eddbdea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
